@@ -114,10 +114,7 @@ python ai_java_coder.py -i
 
 如果您觉得这个工具对您有帮助，欢迎赞助支持我们继续开发！
 
-**比特币 (BTC) 捐赠:**
 
-- **SegWit (推荐，费率低):** `bc1q5s8srtuuqvl25fax3ylqscrjvfyes89akmwq0h`
-- **Legacy:** `1FxTo8tgQJHuvpG5rpw3UP31ca3Q5RWPnc`
 
 您的支持是我们前进的动力！🚀
 
